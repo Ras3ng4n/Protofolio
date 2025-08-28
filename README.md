@@ -18,8 +18,7 @@ Hızlı öğrenen, problem çözücü ve takım oyuncusu olma rollerinde bulunur
 **Database:** MySQL, PostgreSQL, SQLite  
 **Araçlar:** Git, VS Code, Linux Terminal  
 **Siber Güvenlik:** Temel pentest ve Bilgi Güvenliği Temelleri  
-
-**Badges:**  
+ 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)  
 ![Django](https://img.shields.io/badge/Django-3.2-green?style=for-the-badge&logo=django)  
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)  
