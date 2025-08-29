@@ -26,7 +26,7 @@ Hızlı öğrenen, problem çözücü ve takım oyuncusu olma rollerinde bulunur
 ---
 
 ## 📂 Projeler
-- **Portfolio Repo:** [github.com/z10n/Portfolio](https://github.com/z10n/Portfolio)
+- **Projects Repo:** [github.com/z10n/Portfolio](https://github.com/z10n/Portfolio)
 
 ---
 
